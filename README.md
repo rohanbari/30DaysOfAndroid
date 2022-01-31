@@ -16,6 +16,8 @@ Learning to build Android apps for a month challenge.
 | 2     | [CounterAppExample][2]       | A simple counting application              |
 | 3     | [RetrofitAPIDemo][3]         | Working with GitHub API using Retrofit2    |
 | 4.1   | [SwipeRefreshLayoutDemo][4a] | Demonstration of using the SwipeRefresh... |
+| 4.2   | [ExploringLayouts][4b]       | Exploring LinearLayout, TableLayout, and...|
+| 5     | [ScrollViewExample][5]       | Demo of implementation of ScrollView for...|
 
 
 
@@ -23,3 +25,5 @@ Learning to build Android apps for a month challenge.
 [2]: https://github.com/rohanbari/CounterAppExample
 [3]: https://github.com/rohanbari/RetrofitAPIDemo
 [4a]: https://github.com/rohanbari/SwipeRefreshLayoutDemo
+[4b]: https://github.com/rohanbari/ExploringLayouts
+[5]: https://github.com/rohanbari/ScrollViewExample
