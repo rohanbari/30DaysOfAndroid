@@ -10,14 +10,15 @@ Learning to build Android apps for a month challenge.
 
 ## Links to the Commits
 
-| Index | Name                         | Description                                |
-|-------|------------------------------|--------------------------------------------|
-| 1     | [HelloWorld][1]              | Greeting the Android platform              |
-| 2     | [CounterAppExample][2]       | A simple counting application              |
-| 3     | [RetrofitAPIDemo][3]         | Working with GitHub API using Retrofit2    |
-| 4.1   | [SwipeRefreshLayoutDemo][4a] | Demonstration of using the SwipeRefresh... |
-| 4.2   | [ExploringLayouts][4b]       | Exploring LinearLayout, TableLayout, and...|
-| 5     | [ScrollViewExample][5]       | Demo of implementation of ScrollView for...|
+| Index | Name                         | Description                                                                |
+|-------|------------------------------|----------------------------------------------------------------------------|
+| 1     | [HelloWorld][1]              | Greeting the Android platform                                              |
+| 2     | [CounterAppExample][2]       | A simple counting application                                              |
+| 3     | [RetrofitAPIDemo][3]         | Working with GitHub API using Retrofit2                                    |
+| 4.1   | [SwipeRefreshLayoutDemo][4a] | Demonstration of using the SwipeRefreshLayout to refresh content on-demand |
+| 4.2   | [ExploringLayouts][4b]       | Exploring LinearLayout, TableLayout, and ConstraintLayout                  |
+| 5     | [ScrollViewExample][5]       | Demo of implementation of ScrollView for multiple CardView instances       |
+| 6     | [LifecycleDemo][6]           | Lifecycle demonstration of an Android application                          |
 
 
 
@@ -27,3 +28,4 @@ Learning to build Android apps for a month challenge.
 [4a]: https://github.com/rohanbari/SwipeRefreshLayoutDemo
 [4b]: https://github.com/rohanbari/ExploringLayouts
 [5]: https://github.com/rohanbari/ScrollViewExample
+[6]: https://github.com/rohanbari/LifecycleDemo
