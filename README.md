@@ -19,6 +19,7 @@ Learning to build Android apps for a month challenge.
 | 4.2   | [ExploringLayouts][4b]       | Exploring LinearLayout, TableLayout, and ConstraintLayout                  |
 | 5     | [ScrollViewExample][5]       | Demo of implementation of ScrollView for multiple CardView instances       |
 | 6     | [LifecycleDemo][6]           | Lifecycle demonstration of an Android application                          |
+| 7     | [GreatScientists][7]         | Memorial application for great scientists forever                          |
 
 
 
@@ -29,3 +30,4 @@ Learning to build Android apps for a month challenge.
 [4b]: https://github.com/rohanbari/ExploringLayouts
 [5]: https://github.com/rohanbari/ScrollViewExample
 [6]: https://github.com/rohanbari/LifecycleDemo
+[7]: https://github.com/rohanbari/GreatScientists
