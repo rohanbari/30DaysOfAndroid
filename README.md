@@ -21,7 +21,8 @@ Learning to build Android apps for a month challenge.
 | 6     | [LifecycleDemo][6]           | Lifecycle demonstration of an Android application                             |
 | 7     | [GreatScientists][7]         | Memorial application for great scientists forever                             |
 | 8     | [OnClickListenerExample][8]  | App to demonstrate the passage of adapter items into activity using interfaces|
-| 9.1   | [LoopDecision][9a]            | Working with decision-making statements and loops                             |
+| 9.1   | [LoopDecision][9a]           | Working with decision-making statements and loops                             |
+| 9.2   | [RecyclerViewDemo][9b]       | A simple demonstration of the RecyclerView                                    |
 
 
 
@@ -35,3 +36,4 @@ Learning to build Android apps for a month challenge.
 [7]: https://github.com/rohanbari/GreatScientists
 [8]: https://github.com/rohanbari/OnClickListenerExample
 [9a]: https://github.com/rohanbari/LoopDecision
+[9b]: https://github.com/rohanbari/RecyclerViewDemo
