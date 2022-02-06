@@ -24,6 +24,7 @@ Learning to build Android apps for a month challenge.
 | 9.1   | [LoopDecision][9a]            | Working with decision-making statements and loops                             |
 | 9.2   | [RecyclerViewDemo][9b]        | A simple demonstration of the RecyclerView                                    |
 | 10    | [SensorTemperatureExample][10]| Using TYPE_AMBIENT_TEMPERATURE sensor with Sensor Framework                   |
+| 11    | [RandomDevs][11]              | Mentioning several Android developers                                         |
 
 
 
@@ -39,3 +40,4 @@ Learning to build Android apps for a month challenge.
 [9a]: https://github.com/rohanbari/LoopDecision
 [9b]: https://github.com/rohanbari/RecyclerViewDemo
 [10]: https://github.com/rohanbari/SensorTemperatureExample
+[11]: https://github.com/rohanbari/RandomDevs
