@@ -5,7 +5,7 @@ Learning to build Android apps for a month challenge.
 ## Environment
 
   - **Operating System:** Linux Mint 20.3 Una x64
-  - **IDE:** Android Studio Bumblebee 2021.1.1
+  - **IDE:** Android Studio Bumblebee 2021.1.1 Patch 1
   - **API Level:** Using API 31 with Android Nougat (24) support
 
 ## Links to the Commits
