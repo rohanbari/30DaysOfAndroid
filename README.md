@@ -10,7 +10,7 @@ Learning to build Android apps for a month challenge.
 
 ## Links to the Commits
 
-| Index | Name                         -| Description                                                                   |
+| Index | Name                          | Description                                                                   |
 |-------|-------------------------------|-------------------------------------------------------------------------------|
 | 1     | [HelloWorld][1]               | Greeting the Android platform                                                 |
 | 2     | [CounterAppExample][2]        | A simple counting application                                                 |
