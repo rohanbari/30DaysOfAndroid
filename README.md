@@ -25,7 +25,7 @@ Learning to build Android apps for a month challenge.
 | 9.2   | [RecyclerViewDemo][9b]        | A simple demonstration of the RecyclerView                                    |
 | 10    | [SensorTemperatureExample][10]| Using TYPE_AMBIENT_TEMPERATURE sensor with Sensor Framework                   |
 | 11    | [RandomDevs][11]              | Mentioning several Android developers                                         |
-| 12    | [RuntimeObjectCreation][12a]  | Creating button with a setOnClickListener at run-time                         |
+| 12.1  | [RuntimeObjectCreation][12a]  | Creating button with a setOnClickListener at run-time                         |
 
 
 
