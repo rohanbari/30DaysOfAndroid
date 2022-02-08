@@ -26,6 +26,7 @@ Learning to build Android apps for a month challenge.
 | 10    | [SensorTemperatureExample][10]| Using TYPE_AMBIENT_TEMPERATURE sensor with Sensor Framework                   |
 | 11    | [RandomDevs][11]              | Mentioning several Android developers                                         |
 | 12.1  | [RuntimeObjectCreation][12a]  | Creating button with a setOnClickListener at run-time                         |
+| 12.2  | [InheritanceExample][12b]     | Application demonstrating inheritance and abstract classes                    |
 
 
 
@@ -43,3 +44,4 @@ Learning to build Android apps for a month challenge.
 [10]: https://github.com/rohanbari/SensorTemperatureExample
 [11]: https://github.com/rohanbari/RandomDevs
 [12a]: https://github.com/rohanbari/RuntimeObjectCreation
+[12b]: https://github.com/rohanbari/InheritanceExample
