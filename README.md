@@ -28,6 +28,7 @@ Learning to build Android apps for a month challenge.
 | 12.1  | [RuntimeObjectCreation][12a]  | Creating button with a setOnClickListener at run-time                         |
 | 12.2  | [InheritanceExample][12b]     | Application demonstrating inheritance and abstract classes                    |
 | 13    | [GoogleLoginDemo][13]         | A design-copy (attempted by me) of Google sign-in page                        |
+| 14    | [FragmentDialogExample][14]   | Implementation of AlertDialog with DialogFragment                             |
 
 
 
@@ -47,3 +48,4 @@ Learning to build Android apps for a month challenge.
 [12a]: https://github.com/rohanbari/RuntimeObjectCreation
 [12b]: https://github.com/rohanbari/InheritanceExample
 [13]: https://github.com/rohanbari/GoogleLoginDemo
+[14]: https://github.com/rohanbari/FragmentDialogExample
